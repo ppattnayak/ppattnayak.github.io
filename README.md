@@ -69,3 +69,7 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+
+## About Me
+https://www.wikidata.org/wiki/Q134258962
+https://blogs.oracle.com/ai-and-datascience/authors/priyan-pattnayak
