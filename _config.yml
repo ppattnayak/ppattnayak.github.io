@@ -3,7 +3,8 @@ email: "[your-email@example.com]"
 description: >-
   Senior Principal Data Scientist at Oracle Cloud. Specializing in NLP, Generative AI, and AI for enterprise.
 baseurl: ""
-url: "https://ppattnayak.github.io"
+# Force all traffic to primary domain
+url: "https://priyanpattnayak.com"
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
