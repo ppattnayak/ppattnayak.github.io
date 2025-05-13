@@ -1,0 +1,30 @@
+title: "Priyaranjan Pattnayak"
+email: "[your-email@example.com]"
+description: >-
+  Senior Principal Data Scientist at Oracle Cloud. Specializing in NLP, Generative AI, and AI for enterprise.
+baseurl: ""
+url: "https://ppattnayak.github.io"
+theme: "minimal-mistakes-jekyll"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
+highlighter: rouge
+author:
+  name   : "Priyaranjan Pattnayak"
+  avatar : "/assets/images/priyan.jpg"
+  bio    : "AI/ML researcher at Oracle Cloud working on Generative AI and NLP at scale."
+  location : "Seattle, WA"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=gXWbDuUAAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/priyaranjanpattnayak"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/ppattnayak"
+    - label: "Oracle Blog"
+      icon: "fas fa-blog"
+      url: "https://blogs.oracle.com/authors/priyan-pattnayak"
