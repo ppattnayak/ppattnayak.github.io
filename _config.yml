@@ -4,7 +4,7 @@ description: >-
   Senior Principal Data Scientist at Oracle Cloud. Specializing in NLP, Generative AI, and AI for enterprise.
 baseurl: ""
 url: "https://ppattnayak.github.io"
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
