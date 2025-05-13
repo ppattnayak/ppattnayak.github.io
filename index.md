@@ -73,6 +73,8 @@ You can find my publications, blogs, and recorded talks here.
 - Leading development of Generative AI and NLP capabilities across enterprise applications  
 - Architecting multi-turn conversation systems, tokenization pipelines, and hybrid response engines  
 - Spearheading research collaborations and patentable innovations in AI observability and dynamic routing
+- Focus on Generative AI safety and AI scheduling platforms for cloud support
+
 
 ### T-Mobile/Procogia 2018
 **Data Science & Analytics**  
@@ -81,8 +83,10 @@ You can find my publications, blogs, and recorded talks here.
 
 ### TCS 2013-2017
 **Data Science Consultant**  
-- Led cross-functional projects in healthcare and retail analytics  
+- Led cross-functional projects in financial analytics  
 - Delivered machine learning workflows for forecasting and optimization
+- Multiple On-the-Spot awards and best developer award
+- Authored Reference Architecture doc for NoSQL database for CoE Bangalore
 
 ## Education
 
