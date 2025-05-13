@@ -1,1 +1,1 @@
-Sitemap: https://ppattnayak.github.io/sitemap.xml
+User-agent: *\nAllow: /
