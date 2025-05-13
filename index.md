@@ -89,7 +89,6 @@ You can find my publications, blogs, and recorded talks here.
 ### University of Washington, Seattle, US  
 **Master of Science in Information Systems & Data Science 2018**  
 - Graduated with Honors (Top 5 in Class)
-
 ### Odisha University of Technology & Research (OUTR, Formerly CET), Bhubaneswar, India
 **Electrical Engineering 2013**  
 
