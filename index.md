@@ -51,7 +51,20 @@ You can find my publications, blogs, and recorded talks here.
 ---
 ## Blogs & Talks
 - **[Enhancing OCI Customer Support with a Generative AI-powered Chatbot](https://blogs.oracle.com/ai-and-datascience/post/enhancing-oci-customer-support-with-genai-chatbot)**
+- 🎤 **NAACL 2025 Oral Presentation** – Enterprise Chatbots & Hybrid AI  
+  [View on LinkedIn](https://www.linkedin.com/posts/priyaranjanpattnayak_naacl2025-oracleai-nlp-activity-7324552928407511040-L23N)
+- 🎧 **Everything Product Podcast** – Generative AI at Oracle Cloud  
+  [Listen](https://www.linkedin.com/posts/priyaranjanpattnayak_artificialintelligence-cloudtechnology-activity-7304902159265865728-r_kj)
 - Panelist at 28th Colloquium for Information Systems Security Education, Tampa, Florida 2024
+
+---
+
+## Service & Leadership
+
+- Reviewer: NAACL, ACL, IEEE Access, ICML, ICLR and other conferences  
+- Mentor: Early-career data scientists at Oracle and open-source contributors  
+- Contributor: Indic NLP tokenization and safety benchmarks (like SweEval, MvTamperBench etc.)
+
 
 ## Experience
 
@@ -79,4 +92,5 @@ You can find my publications, blogs, and recorded talks here.
 
 ### Odisha University of Technology & Research (OUTR, Formerly CET), Bhubaneswar, India
 **Electrical Engineering 2013**  
+
 
