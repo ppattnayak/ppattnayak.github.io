@@ -27,6 +27,12 @@ You can find my publications, blogs, and recorded talks here.
 - **Hybrid AI for Responsive Multi-Turn Online Conversations with Novel Dynamic Routing and Feedback Adaptation**  
   Proceedings of NAACL 2025, KnowledgeNLP [[PDF](https://aclanthology.org/2025.knowledgenlp-1.20.pdf)]
 
+- **Clinical QA 2.0: Multi-Task Learning for Answer Extraction and Categorization**  
+  Accepted at IEEE EIT 2025 [[PDF](https://arxiv.org/abs/2502.13108)]
+
+- **Tokenization Matters: Improving Zero-Shot NER for Indic Languages**  
+  Accepted at IEEE EIT 2025 [[PDF](https://arxiv.org/abs/2504.16977)]
+
 - **LLM for Barcodes: Generating Diverse Synthetic Data for Identity Documents**  
   Proceedings of WCSC 2025 [[PDF](https://arxiv.org/abs/2411.14962)]
 
