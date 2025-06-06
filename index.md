@@ -21,6 +21,15 @@ You can find my publications, blogs, and recorded talks here.
 
 ## Selected Publications
 
+- **MVTamperBench: Evaluating Robustness of Vision-Language Models**  
+  Accepted at ACL 2025 [[PDF](https://arxiv.org/pdf/2412.19794)]
+
+- **Hard Negative Mining for Domain-Specific Retrieval in Enterprise Systems**  
+  Accepted at ACL 2025 [[PDF](https://arxiv.org/pdf/2505.18366)]
+
+- **Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia**  
+  Accepted at ACL 2025 [[PDF](https://arxiv.org/pdf/2503.07920)]
+  
 - **SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use**  
   Proceedings of NAACL 2025 [[PDF](https://aclanthology.org/2025.naacl-industry.46.pdf)]
 
