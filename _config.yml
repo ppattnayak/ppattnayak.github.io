@@ -14,7 +14,7 @@ markdown: kramdown
 highlighter: rouge
 author:
   name   : "Priyaranjan Pattnayak"
-  avatar : "https://upload.wikimedia.org/wikipedia/commons/d/d9/PriyanHeadshot.jpg"
+  avatar : "https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/a/194/files/2025/08/PriyanHeadshot.jpeg"
   bio    : "AI/ML researcher at Oracle Cloud working on Generative AI and NLP at scale."
   location : "Seattle, WA"
   links:
