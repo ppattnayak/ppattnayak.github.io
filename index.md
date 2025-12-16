@@ -13,7 +13,7 @@ excerpt: "Senior Principal Data Scientist at Oracle Cloud. Researcher in NLP, Ge
 ---
 
 I'm Priyaranjan Pattnayak — a Senior Principal Data Scientist at Oracle Cloud.  
-I lead projects on Generative AI, NLP, and enterprise-scale multimodal systems.
+I lead projects on Generative AI, NLP, enterprise-scale multilingual and multimodal systems.
 
 My work focuses on building production-grade AI frameworks that power real-world business experiences, combining deep learning, tokenization research, document understanding, and conversational agents.
 
@@ -21,6 +21,12 @@ You can find my publications, blogs, and recorded talks here.
 
 ## Selected Publications
 
+- **A Diagnostic Framework for Auditing Reference-Free Vision-Language Metrics**  
+  Accepted at AACL 2025
+
+- **LLM-Guided Lifecycle-Aware Clustering of Multi-Turn Customer Support Conversations**  
+  Accepted at AACL 2025
+  
 - **MVTamperBench: Evaluating Robustness of Vision-Language Models**  
   Accepted at ACL 2025 [[PDF](https://arxiv.org/pdf/2412.19794)]
 
@@ -65,6 +71,10 @@ You can find my publications, blogs, and recorded talks here.
 
 ---
 ## Blogs & Talks
+- 🎤 **The Future of Gen AI** – Tech & AI Conference, Industry Panel NYC 2025  
+  [Tech & AI Live NYC 2025](https://technologymagazine.com/events/tech-and-ai-live/tech-ai-live-new-york-2025/panels#be63e302bd1063915f8ee9067e463efb)
+- 🎤 **Guest Lecture at Foster School of Management, Master's Class** – Cloud and AI  
+  [University of Washington, Seattle](https://foster.uw.edu/academics/degree-programs/master-of-science-in-information-systems)
 - **[Enhancing OCI Customer Support with a Generative AI-powered Chatbot](https://blogs.oracle.com/ai-and-datascience/post/enhancing-oci-customer-support-with-genai-chatbot)**
 - 🎤 **NAACL 2025 Oral Presentation** – Enterprise Chatbots & Hybrid AI  
   [View on LinkedIn](https://www.linkedin.com/posts/priyaranjanpattnayak_naacl2025-oracleai-nlp-activity-7324552928407511040-L23N)
@@ -76,9 +86,10 @@ You can find my publications, blogs, and recorded talks here.
 
 ## Service & Leadership
 
-- Reviewer: NAACL, ACL, IEEE Access, ICML, ICLR and other conferences  
-- Mentor: Early-career data scientists at Oracle and open-source contributors  
-- Contributor: Indic NLP tokenization and safety benchmarks (like SweEval, MvTamperBench etc.)
+- Reviewer: NAACL, ACL, EACL, AACL, IEEE Access, ICML, ICLR, WWW and other conferences  
+- Mentor: Early-career data scientists at Oracle and open-source contributors
+- AAAI Undergraduate Consortium: Mentoring undergrad students from Cornell University for NSF Research Grants
+- Contributor: Indic NLP expert, tokenization and robustness benchmarks (like SweEval, MvTamperBench etc.)
 
 
 ## Experience
@@ -88,7 +99,7 @@ You can find my publications, blogs, and recorded talks here.
 - Leading development of Generative AI and NLP capabilities across enterprise applications  
 - Architecting multi-turn conversation systems, tokenization pipelines, and hybrid response engines  
 - Spearheading research collaborations and patentable innovations in AI observability and dynamic routing
-- Focus on Generative AI safety and AI scheduling platforms for cloud support
+- Focus on Generative AI robustness and AI scheduling platforms for cloud support
 
 
 ### T-Mobile/Procogia 2018
