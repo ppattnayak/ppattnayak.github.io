@@ -1,5 +1,5 @@
 title: "Priyaranjan Pattnayak"
-email: "[your-email@example.com]"
+email: "priyaranjanpattnayak@gmail.com"
 description: >-
   Senior Principal Data Scientist at Oracle Cloud. Specializing in NLP, Generative AI, and AI for enterprise.
 baseurl: ""
@@ -14,7 +14,7 @@ markdown: kramdown
 highlighter: rouge
 author:
   name   : "Priyaranjan Pattnayak"
-  avatar : "https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/a/194/files/2025/08/PriyanHeadshot.jpeg"
+  avatar : "/assets/PriyanHeadshot.jpeg"
   bio    : "AI/ML researcher at Oracle Cloud working on Generative AI and NLP at scale."
   location : "Seattle, WA"
   links:
