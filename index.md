@@ -21,11 +21,14 @@ You can find my publications, blogs, and recorded talks here.
 
 ## Selected Publications
 
+- **INDICJR: A BENCHMARK FOR JAILBREAK ROBUSTNESS OF MULTILINGUAL LLMS IN SOUTH ASIA**  
+  Accepted at EACL 2025 
+  
 - **A Diagnostic Framework for Auditing Reference-Free Vision-Language Metrics**  
-  Accepted at AACL 2025
+  Accepted at AACL 2025 [[PDF](https://aclanthology.org/2025.ijcnlp-long.142.pdf)]
 
 - **LLM-Guided Lifecycle-Aware Clustering of Multi-Turn Customer Support Conversations**  
-  Accepted at AACL 2025
+  Accepted at AACL 2025 [[PDF](https://aclanthology.org/2025.ijcnlp-long.170.pdf)]
   
 - **MVTamperBench: Evaluating Robustness of Vision-Language Models**  
   Accepted at ACL 2025 [[PDF](https://arxiv.org/pdf/2412.19794)]
