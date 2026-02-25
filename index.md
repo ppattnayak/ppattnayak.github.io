@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: "Welcome"
+title: "Priyaranjan Pattnayak"
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
@@ -12,8 +12,7 @@ header:
 excerpt: "Senior Principal Data Scientist at Oracle Cloud. Researcher in NLP, Generative AI, and large-scale AI systems."
 ---
 
-I'm Priyaranjan Pattnayak — a Senior Principal Data Scientist at Oracle Cloud.  
-I lead projects on Generative AI, NLP, enterprise-scale multilingual and multimodal systems.
+Priyaranjan (“Priyan”) Pattnayak is a Senior Principal Data Scientist at Oracle Cloud working on Generative AI, NLP, and AI robustness and leading initiatives for enterprise scale multilingual and multimodal systems.
 
 My work focuses on building production-grade AI frameworks that power real-world business experiences, combining deep learning, tokenization research, document understanding, and conversational agents.
 
@@ -21,8 +20,8 @@ You can find my publications, blogs, and recorded talks here.
 
 ## Selected Publications
 
-- **INDICJR: A BENCHMARK FOR JAILBREAK ROBUSTNESS OF MULTILINGUAL LLMS IN SOUTH ASIA**  
-  Accepted at EACL 2025 
+- **IndicJR: A Benchmark For Jailbreak Robustness of Multilingual LLMs in South Asia**  
+  Accepted at EACL 2026 [[PDF](https://www.arxiv.org/pdf/2602.16832)] 
   
 - **A Diagnostic Framework for Auditing Reference-Free Vision-Language Metrics**  
   Accepted at AACL 2025 [[PDF](https://aclanthology.org/2025.ijcnlp-long.142.pdf)]
