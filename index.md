@@ -73,6 +73,8 @@ You can find my publications, blogs, and recorded talks here.
 
 ---
 ## Blogs & Talks
+- 🎤 **Why Agents Fail: Safety Drift, Cultural Misalignment, and Trustworthy AI Orchestration** –  Conf42 Machine Learning 2026
+  [Conf42 Machine Learning 2026](https://www.linkedin.com/posts/conf42_23-%F0%9D%97%A7%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BF%F0%9D%97%BC%F0%9D%98%84-%F0%9D%98%84%F0%9D%97%B2-%F0%9D%97%B4%F0%9D%97%BC-%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B2-activity-7429863371904036865-Syt5/)
 - 🎤 **The Future of Gen AI** – Tech & AI Conference, Industry Panel NYC 2025  
   [Tech & AI Live NYC 2025](https://technologymagazine.com/events/tech-and-ai-live/tech-ai-live-new-york-2025/panels#be63e302bd1063915f8ee9067e463efb)
 - 🎤 **Guest Lecture at Foster School of Management, Master's Class** – Cloud and AI  
