@@ -19,6 +19,8 @@ My work focuses on building production-grade AI frameworks that power real-world
 You can find my publications, blogs, and recorded talks here.
 
 ## Selected Publications
+- **IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia**  
+  Under Review [[PDF](https://www.arxiv.org/pdf/2603.17915)] 
 
 - **IndicJR: A Benchmark For Jailbreak Robustness of Multilingual LLMs in South Asia**  
   Accepted at EACL 2026 [[PDF](https://www.arxiv.org/pdf/2602.16832)] 
