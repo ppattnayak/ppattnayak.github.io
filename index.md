@@ -19,8 +19,15 @@ My work focuses on building production-grade AI frameworks that power real-world
 You can find my publications, blogs, and recorded talks here.
 
 ## Selected Publications
+
 - **IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia**  
-  Under Review [[PDF](https://www.arxiv.org/pdf/2603.17915)] 
+  Under Review [[PDF](https://www.arxiv.org/pdf/2603.17915)]
+  
+- **Developmental Geometry in Facial Embeddings: A Boundary-Layer Transition**  
+  Accepted at CVPR 2026 
+  
+- **Automated Postmortem Action Generation (PAG) using LLM**  
+  Accepted at WCCI 2026 
 
 - **IndicJR: A Benchmark For Jailbreak Robustness of Multilingual LLMs in South Asia**  
   Accepted at EACL 2026 [[PDF](https://www.arxiv.org/pdf/2602.16832)] 
@@ -44,7 +51,7 @@ You can find my publications, blogs, and recorded talks here.
   Proceedings of NAACL 2025 [[PDF](https://aclanthology.org/2025.naacl-industry.46.pdf)]
 
 - **Hybrid AI for Responsive Multi-Turn Online Conversations with Novel Dynamic Routing and Feedback Adaptation**  
-  Proceedings of NAACL 2025, KnowledgeNLP [[PDF](https://aclanthology.org/2025.knowledgenlp-1.20.pdf)]
+  Proceedings of NAACL 2025 [[PDF](https://aclanthology.org/2025.knowledgenlp-1.20.pdf)]
 
 - **Clinical QA 2.0: Multi-Task Learning for Answer Extraction and Categorization**  
   Accepted at IEEE EIT 2025 [[PDF](https://arxiv.org/abs/2502.13108)]
@@ -56,7 +63,7 @@ You can find my publications, blogs, and recorded talks here.
   Proceedings of WCSC 2025 [[PDF](https://arxiv.org/abs/2411.14962)]
 
 - **Enhancing Document AI Data Generation Through Graph-Based Synthetic Layouts**  
-  IJERT 2024 [[PDF](https://arxiv.org/abs/2412.03590)]
+  Arxiv 2024 [[PDF](https://arxiv.org/abs/2412.03590)]
 
 - **Review of Reference Generation Methods in Large Language Models**  
   IJAI&ML 2025 [[PDF](https://iaeme.com/Home/article_id/IJAIML_04_01_003)]
