@@ -104,7 +104,9 @@ You can find my publications, blogs, and recorded talks here.
 
 ## Service & Leadership
 
-- Reviewer: NAACL, ACL, EACL, AACL, IEEE Access, ICML, ICLR, WWW and other conferences  
+- Area Char: ACL 2026
+- Reviewer: NeurIPS, NAACL, ACL, EACL, AACL, IEEE Access, ICML, ICLR, WWW and other conferences (2024-Present)
+- Workshop Organizer, RL-Eval, ACM CAIS 2026, San Jose, CA, USA  
 - Mentor: Early-career data scientists at Oracle and open-source contributors
 - AAAI Undergraduate Consortium: Mentoring undergrad students from Cornell University for NSF Research Grants
 - Contributor: Indic NLP expert, tokenization and robustness benchmarks (like SweEval, MvTamperBench etc.)
