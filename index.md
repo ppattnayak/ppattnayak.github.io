@@ -21,7 +21,10 @@ You can find my publications, blogs, and recorded talks here.
 ## Selected Publications
 
 - **IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia**  
-  Under Review [[PDF](https://www.arxiv.org/pdf/2603.17915)]
+  Accepted at ACL 2026, Main Conference [[PDF](https://www.arxiv.org/pdf/2603.17915)]
+
+- **ReproEvalCard: A Reporting Standard for Reproducible Evaluation of LLM Pipelines**  
+  Accepted at ACL 2026, Main Conference
   
 - **Developmental Geometry in Facial Embeddings: A Boundary-Layer Transition**  
   Accepted at CVPR 2026 
