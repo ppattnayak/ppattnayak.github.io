@@ -85,7 +85,7 @@ You can find my publications, blogs, and recorded talks here.
 
 ---
 ## Blogs & Talks
--- 🎤 **Chaos Testing for Chatbots: Simulating Customers to Evaluate AI Agents** –  Nerdearla 2026, Chile
+- 🎤 **Chaos Testing for Chatbots: Simulating Customers to Evaluate AI Agents** –  Nerdearla 2026, Chile
   [Nerdearla 2026](https://nerdearla.com/chile/schedule/chaos-testing-for-chatbots-simulating-customers-to-evaluate-ai-agents/)
 - 🎤 **Why Agents Fail: Safety Drift, Cultural Misalignment, and Trustworthy AI Orchestration** –  Conf42 Machine Learning 2026
   [Conf42 Machine Learning 2026](https://www.linkedin.com/posts/conf42_23-%F0%9D%97%A7%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BF%F0%9D%97%BC%F0%9D%98%84-%F0%9D%98%84%F0%9D%97%B2-%F0%9D%97%B4%F0%9D%97%BC-%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B2-activity-7429863371904036865-Syt5/)
