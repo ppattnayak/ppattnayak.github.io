@@ -19,9 +19,11 @@ My research focuses on building production-grade AI frameworks that power real-w
 You can find my publications, blogs, and recorded talks here.
 
 ## Selected Publications
+- **Assistive Prompt Mediation: Evaluating Language Models Under Accessibility Constraints**  
+  Accepted at ICML 2026, Main Conference
 
 - **IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia**  
-  Accepted at ACL 2026, Main Conference [[PDF](https://www.arxiv.org/pdf/2603.17915)]
+  Pending Reviews [[PDF](https://www.arxiv.org/pdf/2603.17915)]
 
 - **ReproEvalCard: A Reporting Standard for Reproducible Evaluation of LLM Pipelines**  
   Accepted at ACL 2026, Main Conference
