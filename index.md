@@ -25,6 +25,9 @@ You can find my publications, blogs, and recorded talks here.
 - **IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia**  
   Pending Reviews [[PDF](https://www.arxiv.org/pdf/2603.17915)]
 
+- **SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation**  
+  Accepted at ACL 2026, MeLLM
+
 - **ReproEvalCard: A Reporting Standard for Reproducible Evaluation of LLM Pipelines**  
   Accepted at ACL 2026, Main Conference
   
