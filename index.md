@@ -20,7 +20,7 @@ You can find my publications, blogs, and recorded talks here.
 
 ## Selected Publications
 - **Assistive Prompt Mediation: Evaluating Language Models Under Accessibility Constraints**  
-  Accepted at ICML 2026, Main Conference [[ICML Link](https://icml.cc/virtual/2026/poster/60783)]
+  Accepted at ICML 2026, Main Conference [[ICML Link](https://icml.cc/virtual/2026/poster/60783)] [[ICML Video](https://recorder-v3.slideslive.com/?share=111822&s=a65406f8-a353-47e7-9bb2-7956ae5ef1f5)]
 
 - **IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia**  
   Pending Reviews [[PDF](https://www.arxiv.org/pdf/2603.17915)]
