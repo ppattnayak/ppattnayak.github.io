@@ -20,7 +20,7 @@ You can find my publications, blogs, and recorded talks here.
 
 ## Selected Publications
 - **Assistive Prompt Mediation: Evaluating Language Models Under Accessibility Constraints**  
-  Accepted at ICML 2026, Main Conference [[ICML Link] https://icml.cc/virtual/2026/poster/60783]
+  Accepted at ICML 2026, Main Conference [[ICML Link](https://icml.cc/virtual/2026/poster/60783)]
 
 - **IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia**  
   Pending Reviews [[PDF](https://www.arxiv.org/pdf/2603.17915)]
@@ -32,7 +32,7 @@ You can find my publications, blogs, and recorded talks here.
   Accepted at ACL 2026, Main Conference
   
 - **Developmental Geometry in Facial Embeddings: A Boundary-Layer Transition**  
-  Accepted at CVPR 2026 [[CVPR Link]https://openaccess.thecvf.com/content/CVPR2026W/CV4CHL/html/Pattnayak_Developmental_Geometry_in_Facial_Embeddings_A_Boundary-Layer_Transition_CVPRW_2026_paper.html] [[PDF]https://openaccess.thecvf.com/content/CVPR2026W/CV4CHL/papers/Pattnayak_Developmental_Geometry_in_Facial_Embeddings_A_Boundary-Layer_Transition_CVPRW_2026_paper.pdf]
+  Accepted at CVPR 2026 [[CVPR Link](https://openaccess.thecvf.com/content/CVPR2026W/CV4CHL/html/Pattnayak_Developmental_Geometry_in_Facial_Embeddings_A_Boundary-Layer_Transition_CVPRW_2026_paper.html)] [[PDF](https://openaccess.thecvf.com/content/CVPR2026W/CV4CHL/papers/Pattnayak_Developmental_Geometry_in_Facial_Embeddings_A_Boundary-Layer_Transition_CVPRW_2026_paper.pdf)]
   
 - **Automated Postmortem Action Generation (PAG) using LLM**  
   Accepted at WCCI 2026 
