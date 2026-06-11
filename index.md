@@ -26,7 +26,7 @@ You can find my publications, blogs, and recorded talks here.
   Pending Reviews [[PDF](https://www.arxiv.org/pdf/2603.17915)]
 
 - **SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation**  
-  Accepted at ACL 2026, MeLLM
+  Accepted at ACL 2026, MeLLM [[PDF](https://arxiv.org/abs/2606.02548)]
 
 - **ReproEvalCard: A Reporting Standard for Reproducible Evaluation of LLM Pipelines**  
   Accepted at ACL 2026, Main Conference
@@ -66,6 +66,9 @@ You can find my publications, blogs, and recorded talks here.
 
 - **Tokenization Matters: Improving Zero-Shot NER for Indic Languages**  
   Accepted at IEEE EIT 2025 [[PDF](https://arxiv.org/abs/2504.16977)]
+
+- - **Review of Tools for Zero-Code LLM Based Application Development**  
+  Proceedings of WCAIAA 2025 [[PDF](https://link.springer.com/chapter/10.1007/978-3-032-13803-3_24)]
 
 - **LLM for Barcodes: Generating Diverse Synthetic Data for Identity Documents**  
   Proceedings of WCSC 2025 [[PDF](https://arxiv.org/abs/2411.14962)]
