@@ -19,7 +19,10 @@ My research focuses on building production-grade AI frameworks that power real-w
 You can find my publications, blogs, and recorded talks here.
 
 ## Selected Publications
-- **When LLM Plans FAil: Solver-Verified Remediation Under Operational Constrainsts**  
+- **Anthropogenic Regional Adaptation in Multimodal Vision-Language Model**
+  Accepted at AACL 2025 [[PDF](https://arxiv.org/pdf/2604.11490)]
+  
+- **When LLM Plans Fail: Solver-Verified Remediation Under Operational Constrainsts**  
   Accepted at EMNLP 2026, Industry Track
   
 - **INCLUDE-2.0: Disentangling Knowledge Gaps in Multilingual LLM Evaluation**  
