@@ -20,7 +20,7 @@ You can find my publications, blogs, and recorded talks here.
 
 ## Selected Publications
 
-- **Anthropogenic Regional Adaptation in Multimodal Vision-Language Model**
+- **Anthropogenic Regional Adaptation in Multimodal Vision-Language Model**  
   Accepted at AACL 2025 [[PDF](https://arxiv.org/pdf/2604.11490)]
   
 - **When LLM Plans Fail: Solver-Verified Remediation Under Operational Constrainsts**  
