@@ -122,7 +122,7 @@ You can find my publications, blogs, and recorded talks here.
 
 ## Service & Leadership
 
-- Area Char: ACL 2026
+- Area Char: ACL 2026, EACL 2026
 - Reviewer: NeurIPS, NAACL, ACL, EACL, AACL, IEEE Access, ICML, ICLR, WWW and other conferences (2024-Present)
 - Workshop Organizer, RL-Eval, ACM CAIS 2026, San Jose, CA, USA  
 - Mentor: Early-career data scientists at Oracle and open-source contributors
