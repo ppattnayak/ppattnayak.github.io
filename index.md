@@ -103,6 +103,8 @@ You can find my publications, blogs, and recorded talks here.
 
 ---
 ## Blogs & Talks
+- 🎤 **Evaluating Multilingual LLM Safety Across 12 Indic Languages** –  Applied AI Summit 2026
+  [Applied AI Summit Day 1 - Generative AI](https://apppliedaisummit.org/indicsafe-evaluating-multilingual-llm-safety-in-south-asia/)
 - 🎤 **Chaos Testing for Chatbots: Simulating Customers to Evaluate AI Agents** –  Nerdearla 2026, Chile
   [Nerdearla 2026](https://nerdearla.com/chile/schedule/chaos-testing-for-chatbots-simulating-customers-to-evaluate-ai-agents/)
 - 🎤 **Why Agents Fail: Safety Drift, Cultural Misalignment, and Trustworthy AI Orchestration** –  Conf42 Machine Learning 2026
