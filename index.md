@@ -19,6 +19,7 @@ My research focuses on building production-grade AI frameworks that power real-w
 You can find my publications, blogs, and recorded talks here.
 
 ## Selected Publications
+
 - **Anthropogenic Regional Adaptation in Multimodal Vision-Language Model**
   Accepted at AACL 2025 [[PDF](https://arxiv.org/pdf/2604.11490)]
   
@@ -76,7 +77,7 @@ You can find my publications, blogs, and recorded talks here.
 - **Tokenization Matters: Improving Zero-Shot NER for Indic Languages**  
   Accepted at IEEE EIT 2025 [[PDF](https://arxiv.org/abs/2504.16977)]
 
-- - **Review of Tools for Zero-Code LLM Based Application Development**  
+- **Review of Tools for Zero-Code LLM Based Application Development**  
   Proceedings of WCAIAA 2025 [[PDF](https://link.springer.com/chapter/10.1007/978-3-032-13803-3_24)]
 
 - **LLM for Barcodes: Generating Diverse Synthetic Data for Identity Documents**  
